@@ -13,7 +13,7 @@ buildscript {
     }
 }
 
-allprojects {
+allprojects {d
     repositories {
         jcenter()
         google()
